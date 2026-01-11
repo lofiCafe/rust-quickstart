@@ -5,3 +5,4 @@
 .env.local
 .env.production
 .env.test
+target/
